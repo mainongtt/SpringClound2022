@@ -15,6 +15,9 @@
     <module>004-cloud-eureka-server7002</module>
     <module>005-cloud-provider-payment8002</module>
     <module>006-cloud-provider-payment8004s</module>
+    <module>007-cloud-consumerzk-order80</module>
+    <module>008-cloud-provider-payment8006</module>
+    <module>009-cloud-consumerconsul-order80</module>
   </modules>
 
   <!-- 这是个总的父工程 -->
