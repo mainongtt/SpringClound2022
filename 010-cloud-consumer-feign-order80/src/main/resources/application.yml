@@ -32,3 +32,7 @@ feign:
         connectTimeout: 5000
         # 建立连接之后从服务器中读取资源的最长时间
         readTimeout: 5000
+# 日志以什么级别监控哪个接口
+logging:
+  level:
+    com.example.service.PaymentFeignService: DEBUG

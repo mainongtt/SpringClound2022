@@ -1,0 +1,8 @@
+D:\loaction\spring-cloud2022\002-cloud-consumer-order80\src\main\java\com\example\springcloud\lb\LoadBalancer.java
+D:\loaction\spring-cloud2022\002-cloud-consumer-order80\src\main\java\com\example\myrule\MySelfRule.java
+D:\loaction\spring-cloud2022\002-cloud-consumer-order80\src\main\java\com\example\springcloud\OrderMain80Application.java
+D:\loaction\spring-cloud2022\002-cloud-consumer-order80\src\main\java\com\example\springcloud\controller\OrderController.java
+D:\loaction\spring-cloud2022\002-cloud-consumer-order80\src\main\java\com\example\springcloud\entities\Payment.java
+D:\loaction\spring-cloud2022\002-cloud-consumer-order80\src\main\java\com\example\springcloud\config\ApplicationContextConfig.java
+D:\loaction\spring-cloud2022\002-cloud-consumer-order80\src\main\java\com\example\springcloud\entities\CommonResult.java
+D:\loaction\spring-cloud2022\002-cloud-consumer-order80\src\main\java\com\example\springcloud\lb\impl\LoadBalancerImpl.java
