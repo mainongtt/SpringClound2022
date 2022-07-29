@@ -51,7 +51,7 @@
         </dependency>
         <!-- 自定义的项目通用包 -->
         <dependency>
-            <groupId>com.lyw.springCloud</groupId>
+            <groupId>com.example.springCloud</groupId>
             <artifactId>cloud-api-commons</artifactId>
             <version>${project.version}</version>
         </dependency>
