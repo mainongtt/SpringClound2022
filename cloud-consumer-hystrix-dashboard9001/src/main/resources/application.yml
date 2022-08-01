@@ -1,0 +1,6 @@
+server:
+  port: 9001
+hystrix:
+  dashboard:
+    # 代理流允许本地列表
+    proxy-stream-allow-list: localhost
