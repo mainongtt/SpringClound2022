@@ -1,0 +1,20 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: 012-cloud-consumer-feign-hystrix-order80
+
+eureka:
+  client:
+    # false表示不想注册中心注册自己
+    register-with-eureka: true
+    # false表示自己端就是注册中心，我的职责就是维护服务实例，并不需要检查服务
+    # fetch-registry: true
+    service-url:
+      # 设置与 Eureka Server交互的地址查询服务和注册服务都需要依赖这个地址
+      # 哪个主机（localhost）的哪个（7001）端口
+      defaultZone: http://localhost:7001/eureka/
+feign:
+  circuitbreaker:
+    enabled: true
