@@ -1,6 +1,0 @@
-com\example\controller\PaymentController.class
-com\example\entities\CommonResult.class
-com\example\dao\PaymentDao.class
-com\example\service\PaymentService.class
-com\example\entities\Payment.class
-com\example\CloudPaymentServiceApplications.class
