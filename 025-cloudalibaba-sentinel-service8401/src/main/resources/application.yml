@@ -1,7 +1,5 @@
 server:
   port: 8401
-  servlet:
-    context-path: /sentienl
 spring:
   application:
     name: cloudalibaba-sentinel-service
