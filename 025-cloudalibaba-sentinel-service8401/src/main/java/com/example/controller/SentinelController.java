@@ -2,6 +2,8 @@ package com.example.controller;
 
 import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import com.alibaba.csp.sentinel.slots.block.BlockException;
+import com.example.entities.CommonResult;
+import com.example.entities.Payment;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -34,4 +36,6 @@ public class SentinelController {
 
         return "自定义提示：del_testHotKeyo(╥﹏╥)o...";
     }
+
+
 }
